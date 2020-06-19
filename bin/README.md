@@ -26,15 +26,3 @@ curl -L "https://hyperledger-org.bintray.com/besu-repo/besu-1.3.8.tar.gz" -o bes
 
 
 ```
-
-## Plugins 
-
-#### exflo
-https://github.com/41north/exflo
-
-#### explorer besu plugin
-https://github.com/adetante/explorer-besu-plugin
-
-#### besu-xt
-https://github.com/freight-trust/besu-xt
-
