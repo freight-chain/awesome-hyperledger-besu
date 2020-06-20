@@ -1,0 +1,8 @@
+{
+  "name": "awesome-hyperledger-besu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:freight-chain/awesome-hyperledger-besu.git",
+  "author": "sam@freighttrust.com <sam@freighttrust.com>",
+  "license": "MIT"
+}
