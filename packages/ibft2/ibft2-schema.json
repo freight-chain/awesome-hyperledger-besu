@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://org.hyperledger.besu/cli_rlp_ibft_extra_data.json",
+  "type": "array",
+  "definitions": {},
+  "title": "IBFT extra data",
+  "description":"JSON format used as input to generate an IBFT extra data RLP string",
+  "items": {
+    "$id": "#/address",
+    "type": "string",
+    "title": "Validator address",
+    "description":"The validator node address",
+    "default": "",
+    "examples": [
+  "ddf1ce23cf38b04062745c78f35551aef8792886",
+  "52d1d9d7b48ebbb0759fe86a7ea63c54314aaa0e",
+  "d61e9690ba47e95546f568d0db336c651bdec25c"
+],
+    "pattern":"^([0-9a-f]{40})$"
+  }
+}
