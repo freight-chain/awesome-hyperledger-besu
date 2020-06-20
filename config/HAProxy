@@ -1,0 +1,26 @@
+frontend discovery-tcp-30303
+    bind *:30303
+    acl ...
+    ...
+    default_backend back-discovery-tcp-30303
+
+frontend rpc-tcp-8545
+    bind *:8545
+    acl ...
+    ...
+    default_backend back-rpc-tcp-8545
+
+backend back-discovery-tcp-30303
+    balance leastconn
+    server node-01 10.0.1.1:30303 weight 1 check
+    server node-02 10.0.1.2:30303 weight 1 check
+    option ...
+    timeout server 600s
+
+backend back-rpc-tcp-8545
+    balance leastconn
+    server node-01 10.0.1.1:8545 weight 1 check
+    server node-02 10.0.1.2:8545 weight 1 check
+    option ....
+    timeout server 600s
+...
