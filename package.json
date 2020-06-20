@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:freight-chain/awesome-hyperledger-besu.git",
   "author": "sam@freighttrust.com <sam@freighttrust.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
+  }
 }
