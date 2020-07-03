@@ -3,7 +3,7 @@
 > A curated list focused on Hyperledger Besu and more broadly Enterprise Ethereum
 
 <img src="/hyperledger-besu.png" class="center" alt="Hyperledger Besu"
-	title="Hyperledger Besu Logo" width="120" height="90" />
+	title="Hyperledger Besu Logo" width="250" height="120" />
 
 ## Topics
 
@@ -11,13 +11,10 @@
 - Java & Web3/Ethereum
 - Enterprise Blockchain
 
-#### EVM Tools
-
-- [Ethwaffle](https://github.com/EthWorks/Waffle)
-
 ## Besu List
 
-
+- [Besu Hidden Command Line Options](https://github.com/freight-chain/awesome-hyperledger-besu/blob/master/besu-cli.md)
+	- [document]
 - [Besu Ethers.js](https://github.com/PegaSysEng/hyperledger-besu-ethers)  
     - [git](https://github.com/PegaSysEng/hyperledger-besu-ethers) 
 - [Web3js EEA](https://github.com/PegaSysEng/web3js-eea)  
@@ -42,6 +39,7 @@
     - [Extending]
     - [Developing]
     - [Guides]
+    - [Edge Cases]
 - [Java & Web3](#)
     - [Resources]
     - [Kotlin]
@@ -116,7 +114,9 @@ Hyperledger Besu
         - [EIPs]
         - [Rocketchat]
 
-## 
+#### EVM Tools
+
+- [Ethwaffle](https://github.com/EthWorks/Waffle)
 
 
 ## Contribute <a name="contribute"></a>
