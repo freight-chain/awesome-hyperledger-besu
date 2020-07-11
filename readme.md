@@ -40,20 +40,22 @@
 - [Besu](#section)
     - [Overview]
     - [Learning]
-    - [Extending]
     - [Developing]
+    	[EthSigner] - Standalone Transaction Signer [download](https://bintray.com/consensys/pegasys-repo/ethsigner)
     - [Guides]
     - [Edge Cases]
 - [Java & Web3](#)
     - [Resources]
     - [Kotlin]
     - [Optimization]
+    	- JVM Optimization
+		[Zulu JDK](https://github.com/zulu-openjdk/zulu-openjdk/tree/master/11.0.7-11.39.15)
+		
 - [Enterprise Blockchain]
     - [Overview]
     - [Learning]
     - [Developing]
     - [Resources]
-- [Another Section](#another-section)
 - [Contribute](#contribute)
 
 ## Hypereldger Besu
@@ -70,7 +72,7 @@ Hyperledger Besu
 
 ### Learning & Best Practices 
 - [Learning]
-    - [Pegasys Sample Network]
+    - [Pegasys Sample Network](https://github.com/PegaSysEng/besu-sample-networks)
     - [Laachain]
     - [Freight Trust Network]
     - [Whiteblock]
@@ -81,7 +83,19 @@ Hyperledger Besu
     - [Clique]
         - [Production Notes]
     - [Besu API]
+    
     - [Besu CLI]
+    	- Hidden Command Line Options
+
+### Network Admin & Genesis 
+    - [Clique Genesis CLI Scripts](https://github.com/ppoliani/besu-clique-config)
+    - [IBFT2 Genesis CLI Scripts](https://github.com/abdelhamidbakhta/besu-ls-support)
+    
+    - Genesis Config File
+    	- Explainer
+	- Forking
+		- Relevent EIPs
+		- How-to
 
 ### Extending & Plugins
 
