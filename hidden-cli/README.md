@@ -254,19 +254,19 @@ Disable Timers [see pantheon/pull/1837](https://github.com/PegaSysEng/pantheon/p
 
 ### Rocks DB Optimization (values are not listed!)
 
-- expectedMaxBackgroundCompactions = 223344
+- expectedMaxBackgroundCompactions = 223344 <br />
 
-- expectedCacheCapacity = 400050006000L
+- expectedCacheCapacity = 400050006000L <br />
 
-- expectedMaxOpenFiles = 65
+- expectedMaxOpenFiles = 65 <br />
 
 ## Enviornmental Variables
 ##### ENV
-MAX_BACKGROUND_COMPACTIONS_FLAG
-MAX_OPEN_FILES_FLAG
-CACHE_CAPACITY_FLAG
-BACKGROUND_THREAD_COUNT_FLAG
-BACKGROUND_THREAD_COUNT_FLAG = 99
+MAX_BACKGROUND_COMPACTIONS_FLAG <br />
+MAX_OPEN_FILES_FLAG <br />
+CACHE_CAPACITY_FLAG <br />
+BACKGROUND_THREAD_COUNT_FLAG <br />
+BACKGROUND_THREAD_COUNT_FLAG = 99 <br />
 
 
 
