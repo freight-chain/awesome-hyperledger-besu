@@ -1,6 +1,6 @@
-# Awesome Hyperledger Besu [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Hyperledger Besu & Java Blockchain  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list focused on Hyperledger Besu and more broadly Enterprise Ethereum
+> A curated list focused on Hyperledger Besu and Java Blockchain
 
 <img src="/hyperledger-besu.png" class="center" alt="Hyperledger Besu"
 	title="Hyperledger Besu Logo" width="275" height="170" />
@@ -10,6 +10,10 @@
 - Hyperledger Besu
 - Java & Web3/Ethereum
 - Enterprise Blockchain
+
+## Java 
+
+- [Web3j OpenAPI](https://github.com/web3j/web3j-openapi)
 
 ## Besu List
 
@@ -100,8 +104,8 @@ Hyperledger Besu
 ### Extending & Plugins
 
 - [Extending]
-    - [Exflo]
-    - [Epirus Block Explorer]
+    - [Exflo](https://github.com/41north)
+    - [Epirus Block Explorer](https://github.com/web3j)
     - [Alethio Plugin]
     - [Redis Plugin]
 
@@ -109,7 +113,8 @@ Hyperledger Besu
 - [Developing]
     - [Hyperledger Besu Developing Documentation]
     - [Sample Truffle Box]
-    - [Solidity Versiom Managment 'svm']
+    - [Solidity Versiom Managment 'svm'](https://github.com/web3j/svm)
+    	[Mac OS X](https://github.com/web3j/solidity-darwin-binaries)
     - [Web3j]
     - [Example Deployments]
 
@@ -124,7 +129,7 @@ Hyperledger Besu
 
 - [Enterprise Blockchain]
     - [Overview]
-        - [web3labs]
+        - [web3labs](https://github.com/web3labs)
         - [41north]
 ### Learning & Resources
     - [Learning]
@@ -136,6 +141,10 @@ Hyperledger Besu
 
 - [Ethwaffle](https://github.com/EthWorks/Waffle)
 
+
+## Maven 
+
+[https://mvnrepository.com/artifact/org.web3j/besu](https://mvnrepository.com/artifact/org.web3j/besu)
 
 ## Contribute <a name="contribute"></a>
 
