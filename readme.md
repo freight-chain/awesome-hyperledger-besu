@@ -11,6 +11,24 @@
 - Java & Web3/Ethereum
 - Enterprise Blockchain
 
+### Developing
+- [Developing]
+    - [Hyperledger Besu Developing Documentation]
+    - [Sample Truffle Box]
+    - [Solidity Versiom Managment 'svm'](https://github.com/web3j/svm)
+    	[Mac OS X](https://github.com/web3j/solidity-darwin-binaries)
+    - [Web3j]
+    - [Example Deployments]
+    
+    
+- [0x solc compiler](https://sol-compiler.com/)
+> Seamlessly compile an entire solidity project and generate customisable artifacts
+`npm install @0x/sol-compiler --g`
+
+- [Sourcify](https://github.com/ethereum/sourcify)
+> Solidity re-compiler that can be used to verify that bytecode corresponds to certain source code
+
+
 ## Java 
 
 - [Web3j OpenAPI](https://github.com/web3j/web3j-openapi)
@@ -36,8 +54,6 @@
 ## Docker RSS
 
 - [Docker Container RSS Feed](https://docker-hub-rss.now.sh/hyperledger/besu.atom)
-
-
 
 ## Contents
 
@@ -109,14 +125,7 @@ Hyperledger Besu
     - [Alethio Plugin]
     - [Redis Plugin]
 
-### Developing
-- [Developing]
-    - [Hyperledger Besu Developing Documentation]
-    - [Sample Truffle Box]
-    - [Solidity Versiom Managment 'svm'](https://github.com/web3j/svm)
-    	[Mac OS X](https://github.com/web3j/solidity-darwin-binaries)
-    - [Web3j]
-    - [Example Deployments]
+
 
 ### Guides
 - [Guides]
