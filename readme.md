@@ -59,9 +59,13 @@
 - [Besu Terraform](https://github.com/PegaSysEng/besu-terraform)  
 - [Besu AWS](https://github.com/PegaSysEng/besu-aws)  
 - [Besu Kubernetes](https://github.com/PegaSysEng/besu-kubernetes)
-
-
 - [Docker Container RSS Feed](https://docker-hub-rss.now.sh/hyperledger/besu.atom)
+
+### The "Other" Hyperledger Besu 'List'
+
+[Awesome Besu](https://github.com/41north/awesome-besu)
+
+
 
 ## Contents
 
@@ -76,7 +80,7 @@
     - [Resources]
     - [Kotlin]
     - [Optimization]
-    	- JVM Optimization
+    	- Other JDK/JVMs
 		[Zulu JDK](https://github.com/zulu-openjdk/zulu-openjdk/tree/master/11.0.7-11.39.15)
 		
 ## Hyperledger Besu
